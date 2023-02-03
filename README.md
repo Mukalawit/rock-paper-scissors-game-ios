@@ -1,6 +1,5 @@
 # rock-paper-scissors-game-ios
 Brain training game
-# unit-converter-ios
 
 ### Project Title
 This is a brain training game of rock paper scissors app for the iOS platorm
